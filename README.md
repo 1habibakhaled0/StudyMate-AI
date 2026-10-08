@@ -78,8 +78,8 @@ PDF → Text Extraction → Text Chunking → Embeddings → FAISS → Retrieval
 The user asks a question about the educational material, and the system retrieves relevant information before generating the answer.
 
 📸 Demo
-🖥️ Stre
-amlit Interface
+
+🖥️ Streamlit Interface
 
 ![Streamlit Interface](demo_interface.png)
 
