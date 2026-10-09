@@ -11,7 +11,7 @@ The system combines **Retrieval-Augmented Generation (RAG)**, semantic search, a
 | Field                | Value                                       |
 | -------------------- | ------------------------------------------- |
 | **Full Name**        | Habiba Khalid Shaban Mohamed Maray          |
-| **Project Name**     | Mathematical Foundations AI Study Assistant |
+| **Project Name**     | StudyMate AI                                |
 | **GitHub Username**  | 1habibakhaled0                              |
 | **Internship Batch** | August–October 2026                         |
 | **Training Program** | Large Language Models (LLMs) Program        |
